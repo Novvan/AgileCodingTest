@@ -2,11 +2,13 @@
 
 ## Project setup
 
+Installs all dependencies
+
 ```
 yarn install
 ```
 
-### Compiles and minifies for production
+Compiles and minifies for production
 
 ```
 yarn build
